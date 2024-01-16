@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reztian.CQRS.WebAPI", "Reztian.CQRS.WebAPI\Reztian.CQRS.WebAPI.csproj", "{9FF6C515-A261-43AD-8971-AF102EF472FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reztian.CQRS.AppService", "Reztian.CQRS.AppService\Reztian.CQRS.AppService.csproj", "{8441C8B7-7887-413B-9D90-29B53C06CCA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reztian.CQRS.Core", "Reztian.CQRS.Core\Reztian.CQRS.Core.csproj", "{10143A31-D802-4FC6-892F-BE9FC881010E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reztian.CQRS.Infrastructure", "Reztian.CQRS.Infrastructure\Reztian.CQRS.Infrastructure.csproj", "{2E7C6895-E122-4D8C-A247-24BEE4B063CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reztian.CQRS.Domain", "Reztian.CQRS.Domain\Reztian.CQRS.Domain.csproj", "{0F774717-1757-4C00-8FAE-9855FB9E0107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FF6C515-A261-43AD-8971-AF102EF472FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF6C515-A261-43AD-8971-AF102EF472FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF6C515-A261-43AD-8971-AF102EF472FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF6C515-A261-43AD-8971-AF102EF472FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8441C8B7-7887-413B-9D90-29B53C06CCA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8441C8B7-7887-413B-9D90-29B53C06CCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8441C8B7-7887-413B-9D90-29B53C06CCA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8441C8B7-7887-413B-9D90-29B53C06CCA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10143A31-D802-4FC6-892F-BE9FC881010E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10143A31-D802-4FC6-892F-BE9FC881010E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10143A31-D802-4FC6-892F-BE9FC881010E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10143A31-D802-4FC6-892F-BE9FC881010E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E7C6895-E122-4D8C-A247-24BEE4B063CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7C6895-E122-4D8C-A247-24BEE4B063CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7C6895-E122-4D8C-A247-24BEE4B063CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7C6895-E122-4D8C-A247-24BEE4B063CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F774717-1757-4C00-8FAE-9855FB9E0107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F774717-1757-4C00-8FAE-9855FB9E0107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F774717-1757-4C00-8FAE-9855FB9E0107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F774717-1757-4C00-8FAE-9855FB9E0107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D3847D7-7156-4FC8-8ABD-136765F28E0C}
+	EndGlobalSection
+EndGlobal

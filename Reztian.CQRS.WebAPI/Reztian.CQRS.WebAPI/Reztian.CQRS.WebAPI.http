@@ -1,0 +1,6 @@
+@Reztian.CQRS.WebAPI_HostAddress = http://localhost:5244
+
+GET {{Reztian.CQRS.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
